@@ -1,3 +1,4 @@
+![Exmanoal Screenshot](exmanoal_english_screenshot.png)
 Listen carefully. This is not an ordinary horror story, an urban legend, or another fictional tale about a mysterious creature from Minecraft.
 
 If you play Minecraft Bedrock Edition versions 1.21–1.22 and install third-party modifications, resource packs, or add-ons, you should know about Exmanoal.
